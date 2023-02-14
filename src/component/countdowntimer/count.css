@@ -2,6 +2,7 @@
     height: 600px;
     width: 600px;
     margin: auto;
+    background-color: gray;
 }
 #current-time{
     font-size: 45px;
